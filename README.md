@@ -1,4 +1,4 @@
-# School-tool-kit
+# School-Tool-Kit
 
 SEU-Badminton-Hall-Appointment
 https://github.com/apxlin/SEU-Badminton-Hall-Appointment
